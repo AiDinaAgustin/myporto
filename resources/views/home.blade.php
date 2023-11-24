@@ -7,10 +7,11 @@
             <div class="col-xxl-5">
                 <!-- Header text content-->
                 <div class="text-center text-xxl-start">
-                    <div class="badge bg-gradient-primary-to-secondary text-white mb-4"><div class="text-uppercase">Web Development &middot; </div></div>
+                    <div class="badge bg-gradient-primary-to-secondary text-white mb-4"><div class="text-uppercase">Back-End Developer &middot; </div></div>
                     {{-- Development &middot; Marketing --}}
-                    <div class="fs-3 fw-light text-muted">I can help your business to</div>
-                    <h1 class="display-3 fw-bolder mb-5"><span class="text-gradient d-inline">Get online and grow fast</span></h1>
+                    <div class="fs-3 fw-light text-muted">Hello!</div>
+                    <h1 class="display-3 fw-bolder"><span class="text-gradient d-inline">My Name is Ai Dina Agustin</span></h1>
+                    <div class="fs-3 fw-light text-muted mb-5">I'm a Junior Backend Developer with a keen interest and dedication to software development.</div>
                     <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xxl-start mb-3">
                         <a class="btn btn-primary btn-lg px-5 py-3 me-sm-3 fs-6 fw-bolder" href="/resume">Resume</a>
                         <a class="btn btn-outline-dark btn-lg px-5 py-3 fs-6 fw-bolder" href="/projects">Projects</a>
@@ -148,15 +149,19 @@
         <div class="row gx-5 justify-content-center">
             <div class="col-xxl-8">
                 <div class="text-center my-5">
-                    <h2 class="display-5 fw-bolder"><span class="text-gradient d-inline">About Me</span></h2>
-                    <p class="lead fw-light mb-4">My name is Ai Dina Agustin.</p>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit dolorum itaque qui unde quisquam consequatur autem. Eveniet quasi nobis aliquid cumque officiis sed rem iure ipsa! Praesentium ratione atque dolorem?. 
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Recusandae commodi officia ex impedit delectus. Mollitia autem, tempora, sint a deserunt odit itaque numquam error sapiente tempore optio distinctio ex ratione.
+                    <h2 class="display-5 fw-bolder"><span class="text-gradient d-inline">Technical Skills</span></h2>
+                    <p class="text-muted">
+                        I possess a strong foundation in various programming languages, frameworks, and tools, allowing me to tackle diverse challenges in the realm of backend development.
                     </p>
                     <div class="d-flex justify-content-center fs-2 gap-4">
-                        <a class="text-gradient" href="#!"><i class="bi bi-twitter"></i></a>
-                        <a class="text-gradient" href="#!"><i class="bi bi-linkedin"></i></a>
-                        <a class="text-gradient" href="#!"><i class="bi bi-github"></i></a>
+                        <a class="text-gradient" href="#!"><img src="assets/laravel.png" alt="" width="50"></a>
+                        <a class="text-gradient" href="#!"><img src="assets/php.png" alt="" width="80"></a>
+                        <a class="text-gradient" href="#!"><img src="assets/mysql.png" alt="" width="50"></i></a>
+                        <a class="text-gradient" href="#!"><img src="assets/ci.png" alt="" width="50"></i></a>
+                        <a class="text-gradient" href="#!"><img src="assets/bootstrap.png" alt="" width="50"></i></a>
+                        <a class="text-gradient" href="#!"><img src="assets/tailwind.png" alt="" width="50"></i></a>
+                        <a class="text-gradient" href="#!"><img src="assets/js.png" alt="" width="50"></i></a>
+                        <a class="text-gradient" href="#!"><img src="assets/vue.png" alt="" width="50"></i></a>
                     </div>
                 </div>
             </div>
