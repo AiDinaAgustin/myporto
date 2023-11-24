@@ -1,5 +1,5 @@
 
-<footer class="bg-gradient-primary-to-secondary py-4 mt-auto">
+<footer class="bg-gradient-primary-to-secondary py-4 mt-auto text-lg-start">
     <div class="container px-5">
           <div class="row">
             <div class="col-6 col-md-2 mb-3">
@@ -41,10 +41,10 @@
                     Indonesia</p>
               </form>
               <div class="">
-                <a class="text-black px-0" href="#!"><i class="bi bi-github fs-5"></i></a>
-                <a class="text-black px-2" href="#!"><i class="bi bi-instagram fs-5"></i></a>
-                <a class="text-black px-2" href="#!"><i class="bi bi-facebook fs-5"></i></a>
-                <a class="text-black px-2" href="#!"><i class="bi bi-linkedin fs-5"></i></a>
+                <a class="btn btn-outline-light btn-floating m-1" href="https://github.com/AiDinaAgustin"><i class="bi bi-github fs-5"></i></a>
+                <a class="btn btn-outline-light btn-floating m-1" href="https://instagram.com/sana.agustina?igshid=OGQ5ZDc2ODk2ZA=="><i class="bi bi-instagram fs-5"></i></a>
+                <a class="btn btn-outline-light btn-floating m-1" href="https://www.facebook.com/faujiyah.r.azizah"><i class="bi bi-facebook fs-5"></i></a>
+                <a class="btn btn-outline-light btn-floating m-1" href="https://www.linkedin.com/in/aidina-agustin-b49806223/"><i class="bi bi-linkedin fs-5"></i></a>
               </div>
             </div>
           </div>
