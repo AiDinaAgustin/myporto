@@ -153,7 +153,7 @@
                     <p class="text-muted">
                         I possess a strong foundation in various programming languages, frameworks, and tools, allowing me to tackle diverse challenges in the realm of backend development.
                     </p>
-                    <div class="d-flex justify-content-center fs-2 gap-4">
+                    <div class="d-flex flex-wrap justify-content-center fs-2 gap-4">
                         <a class="text-gradient" href="#!"><img src="assets/laravel.png" alt="" width="50"></a>
                         <a class="text-gradient" href="#!"><img src="assets/php.png" alt="" width="80"></a>
                         <a class="text-gradient" href="#!"><img src="assets/mysql.png" alt="" width="50"></i></a>
