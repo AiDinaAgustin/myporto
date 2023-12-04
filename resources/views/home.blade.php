@@ -163,15 +163,15 @@
                     </div>
                     
                     <div class="d-flex flex-wrap justify-content-center fs-2 gap-4">
-                        <div data-aos="zoom-out">
+                        <div data-aos="flip-left">
                             <a class="text-gradient" href="#!"><img src="assets/laravel.png" alt="" width="50"></a>
-                        <a class="text-gradient" href="#!"><img src="assets/php.png" alt="" width="80"></a>
-                        <a class="text-gradient" href="#!"><img src="assets/mysql.png" alt="" width="50"></i></a>
-                        <a class="text-gradient" href="#!"><img src="assets/ci.png" alt="" width="50"></i></a>
-                        <a class="text-gradient" href="#!"><img src="assets/bootstrap.png" alt="" width="50"></i></a>
-                        <a class="text-gradient" href="#!"><img src="assets/tailwind.png" alt="" width="50"></i></a>
-                        <a class="text-gradient" href="#!"><img src="assets/js.png" alt="" width="50"></i></a>
-                        <a class="text-gradient" href="#!"><img src="assets/vue.png" alt="" width="50"></i></a>
+                            <a class="text-gradient" href="#!"><img src="assets/php.png" alt="" width="80"></a>
+                            <a class="text-gradient" href="#!"><img src="assets/mysql.png" alt="" width="50"></i></a>
+                            <a class="text-gradient" href="#!"><img src="assets/ci.png" alt="" width="50"></i></a>
+                            <a class="text-gradient" href="#!"><img src="assets/bootstrap.png" alt="" width="50"></i></a>
+                            <a class="text-gradient" href="#!"><img src="assets/tailwind.png" alt="" width="50"></i></a>
+                            <a class="text-gradient" href="#!"><img src="assets/js.png" alt="" width="50"></i></a>
+                            {{-- <a class="text-gradient" href="#!"><img src="assets/vue.png" alt="" width="50"></i></a> --}}
                         </div>
                         
                     </div>
