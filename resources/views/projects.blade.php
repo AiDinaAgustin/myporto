@@ -2,7 +2,7 @@
 
 @section('container')
      <!-- Projects Section-->
-    <section class="py-5">
+    <section class="py-2">
         <div class="container px-5 mt-5">
             <div class="text-center">
                 <h1 class="display-5 fw-bolder mb-2"><span class="text-gradient d-inline">Projects</span></h1>
@@ -103,6 +103,7 @@
   <div class="swiper mySwiper">
     <div class="swiper-wrapper">
       <div class="swiper-slide">
+        <h3 class="text-gradient fw-bolder mb-2 text-center">My Portofolio</h3>
         <img src="assets/castro.png" />
       </div>
       <div class="swiper-slide">
