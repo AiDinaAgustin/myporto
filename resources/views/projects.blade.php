@@ -104,13 +104,15 @@
     <div class="swiper-wrapper">
       <div class="swiper-slide">
         <h3 class="text-gradient fw-bolder mb-2 text-center">My Portofolio</h3>
+        <img src="assets/myporto.png" />
+      </div>
+      <div class="swiper-slide">
+        <h3 class="text-gradient fw-bolder mb-2 text-center">Podcast Castro</h3>
         <img src="assets/castro.png" />
       </div>
       <div class="swiper-slide">
-        <img src="assets/castro.png" />
-      </div>
-      <div class="swiper-slide">
-        <img src="assets/castro.png" />
+        <h3 class="text-gradient fw-bolder mb-2 text-center">Sistem Kunjungan Wali Santri</h3>
+        <img src="assets/assalam.png" />
       </div>
       <div class="swiper-slide">
         <img src="assets/castro.png" />
