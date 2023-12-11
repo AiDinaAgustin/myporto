@@ -119,7 +119,8 @@
         <img src="assets/curug.png" />
       </div>
       <div class="swiper-slide">
-        <img src="assets/castro.png" />
+        <h3 class="text-gradient fw-bolder mb-2 text-center">Dzikir Pop Website</h3>
+        <img src="assets/dpop.png" />
       </div>
       {{-- <div class="swiper-slide">
         <img src="https://swiperjs.com/demos/images/nature-6.jpg" />
