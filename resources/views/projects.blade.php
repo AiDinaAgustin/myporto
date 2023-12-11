@@ -115,7 +115,8 @@
         <img src="assets/assalam.png" />
       </div>
       <div class="swiper-slide">
-        <img src="assets/castro.png" />
+        <h3 class="text-gradient fw-bolder mb-2 text-center">Sistem Informasi Curug Cierang</h3>
+        <img src="assets/curug.png" />
       </div>
       <div class="swiper-slide">
         <img src="assets/castro.png" />
