@@ -122,6 +122,14 @@
         <h3 class="text-gradient fw-bolder mb-2 text-center">Dzikir Pop Website</h3>
         <img src="assets/dpop.png" />
       </div>
+      <div class="swiper-slide">
+        <h3 class="text-gradient fw-bolder mb-2 text-center">Homeschooling Permata Hati</h3>
+        <img src="assets/edu.png" />
+      </div>
+      <div class="swiper-slide">
+        <h3 class="text-gradient fw-bolder mb-2 text-center">Website KKN</h3>
+        <img src="assets/kkn.png" />
+      </div>
       {{-- <div class="swiper-slide">
         <img src="https://swiperjs.com/demos/images/nature-6.jpg" />
       </div>
